@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Author: 0xA
+
 filter_results=false  # Default: Do not filter results
 color_enabled=true    # Default: Enable color
 output_file=""        # Default: No output file specified

@@ -35,14 +35,14 @@ chmod +x fwdlookup.sh
 
 <p align="center">
   <img src="/dns-enumeration/subdomain/host/readme-imgs/fwdlookup.png" />
-  <figcaption>Fig. 1 Performing forward lookup against Google with "list" wordlist.</figcaption>
 </p>
+<p align="center"><i>Fig. 1 Performing forward lookup against Google with "list" wordlist.</i></p>
 <br>
 <br>
 <p align="center">
   <img src="/dns-enumeration/subdomain/host/readme-imgs/fwdoutput.png" />
-  <figcaption>Fig. 2 Output of scan when using -o flag.</figcaption>
 </p>
+<p align="center"><i>Fig. 2 Output of scan when using -o flag.</i></p>
 <br>
 <br>
 
@@ -85,13 +85,13 @@ chmod +x revlookup.sh
 
 <p align="center">
   <img src="/dns-enumeration/subdomain/host/readme-imgs/revlookup.png" />
-  <figcaption>Fig. 3 Performing reverse lookup against 142.250.68.1 (Google)</figcaption>
 </p>
+<p align="center"><i>Fig. 3 Performing reverse lookup against 142.250.68.1 (Google)</i></p>
 <br>
 <br>
 <p align="center">
   <img src="/dns-enumeration/subdomain/host/readme-imgs/revoutput.png" />
-  <figcaption>Fig. 4 Output of scan when using -o flag.</figcaption>
 </p>
+<p align="center"><i>Fig. 4 Output of scan when using -o flag.</i></p>
 <br>
 <br>

@@ -77,7 +77,6 @@ This script runs host against all 255 hosts in the /24 subnet your IP resides in
 
 ```bash
 wget https://raw.githubusercontent.com/zylideum/hacktory-aux/main/dns-enumeration/subdomain/host/revlookup.sh;
-
 chmod +x revlookup.sh
 ```
 

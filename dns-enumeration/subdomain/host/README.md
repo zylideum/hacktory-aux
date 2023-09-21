@@ -34,13 +34,13 @@ chmod +x fwdlookup.sh
 #### Screenshots 
 
 <p align="center">
-  <img src="/zylideum/hacktory-aux/dns-enumeration/subdomain/host/readme-imgs/fwdlookup.png" />
+  <img src="/dns-enumeration/subdomain/host/readme-imgs/fwdlookup.png" />
   <figcaption>Fig. 1 Performing forward lookup against Google with "list" wordlist.</figcaption>
 </p>
 <br>
 <br>
 <p align="center">
-  <img src="/zylideum/hacktory-aux/dns-enumeration/subdomain/host/readme-imgs/fwdoutput.png" />
+  <img src="/dns-enumeration/subdomain/host/readme-imgs/fwdoutput.png" />
   <figcaption>Fig. 2 Output of scan when using -o flag.</figcaption>
 </p>
 <br>
@@ -84,13 +84,13 @@ chmod +x revlookup.sh
 #### Screenshots
 
 <p align="center">
-  <img src="/zylideum/hacktory-aux/dns-enumeration/subdomain/host/readme-imgs/revlookup.png" />
+  <img src="/dns-enumeration/subdomain/host/readme-imgs/revlookup.png" />
   <figcaption>Fig. 3 Performing reverse lookup against 142.250.68.1 (Google)</figcaption>
 </p>
 <br>
 <br>
 <p align="center">
-  <img src="/zylideum/hacktory-aux/dns-enumeration/subdomain/host/readme-imgs/revoutput.png" />
+  <img src="/dns-enumeration/subdomain/host/readme-imgs/revoutput.png" />
   <figcaption>Fig. 4 Output of scan when using -o flag.</figcaption>
 </p>
 <br>

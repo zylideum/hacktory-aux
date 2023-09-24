@@ -13,6 +13,8 @@ nc -nvv -w 1 -z {IP} 1-65535 2>&1 | awk ' /Connection refused/{gsub(/Connection 
 - `{IP}` - replace with the target IP.
 
 #### Optional Arguments
+- Replace `1-65535` with the desired port range.
+
 This one-liner depends on `awk` to function. If the restricted host does not have `awk`, remove the piped command. This is for coloring only.
 
 This one-liner can be piped into `grep "open"` to filter results.
@@ -51,6 +53,8 @@ nc -nvvu -w 1 -z {IP} 1-100 2>&1 | awk '!/\(\?\)/ && /open/ {gsub(/open/, "\033[
 - `{IP}` - replace with the target IP.
 
 #### Optional Arguments
+- Replace `1-100` with the desired port range.
+
 This one-liner depends on `awk` to function. If the restricted host does not have `awk`, remove the piped command. This is for coloring only.
 
 This one-liner can be piped into `grep "open"` to filter results.

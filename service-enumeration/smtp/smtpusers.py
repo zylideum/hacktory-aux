@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+# Author: 0xA
+
 import socket
 import sys
 import argparse

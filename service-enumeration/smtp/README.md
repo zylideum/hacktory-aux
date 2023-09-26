@@ -45,6 +45,6 @@ wget https://raw.githubusercontent.com/zylideum/hacktory-aux/main/service-enumer
 <p align="center">
   <img src="/service-enumeration/smtp/readme-imgs/smtpresults.png" />
 </p>
-<p align="center"><i>Fig. 4 Output of scan when using --output flag.</i></p>
+<p align="center"><i>Fig. 2 Output of scan when using --output flag.</i></p>
 <br>
 <br>
